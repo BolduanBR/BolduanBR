@@ -14,7 +14,7 @@
 
 ### 🔧 Sobre mim
 ```bash
-> nome: BolduanBR
+> nome: Luiz Felipe da Silva Bolduan
 > função: Dev web em constante evolução
 > localização: Brasil, modo noturno ativado
 > skills: HTML
